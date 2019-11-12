@@ -16,6 +16,7 @@ From github.com:polis-mail-ru/2019-ads
 
 ## Облако с презентациями
 [ссылка на облако](https://cloud.mail.ru/public/5Ex2/42ztbsCdw).
+[видосики](https://ok.ru/group/53245288710321/video/c2617009).
 
 ## Схема работы
 В общем случае часть задач будет с [e-olymp](https://www.e-olymp.com), и проверяться будет средствами этой системы.
